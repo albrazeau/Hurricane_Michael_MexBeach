@@ -20,6 +20,8 @@ https://earthexplorer.usgs.gov/
 
 High Resolution Orthoimagery
 
+https://lta.cr.usgs.gov/high_res_ortho
+
 Entity ID:
 
 2988950_67125
